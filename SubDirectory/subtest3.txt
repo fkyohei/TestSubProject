@@ -1,1 +1,6 @@
 submoduleの確認のためにファイル追加
+
+
+submoduleとして取り込んだ先から修正を加える
+
+submodule確認の為にもう一度修正を追加
