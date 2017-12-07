@@ -9,3 +9,4 @@ TestMainProject内でテスト用のブランチからファイルを追加
 もう１回
 
 チェック
+MainとModuleの両方を変更
